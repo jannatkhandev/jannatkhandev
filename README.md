@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jannat</h1>
-<h3 align="center">Aspiring Software Developer.</h3>
+<h3 align="center">Google Summer of Code 2025 Contributor @ Rocket.Chat | Gen AI Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=jannatkhandev)
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [jannatkhan.xyz](https://jannatkhan.xyz)
 
-- 💬 Ask me about **JavaScript.**
+- 💬 Ask me about **LangChain, LangGraph, n8n and Context Engineering.**
 
 - ⚡ Fun fact **I enjoy advanced mathematics and problem solving.**
 
